@@ -1,0 +1,30 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "native ToDo JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkorzh1606/todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "AlexKorzh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkorzh1606/todo/issues"
+  },
+  "homepage": "https://github.com/alexkorzh1606/todo#readme",
+  "dependencies": {
+    "@material-icons/font": "^1.0.4",
+    "bulma": "^0.9.1",
+    "webpack": "^5.3.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.1.0"
+  }
+}
